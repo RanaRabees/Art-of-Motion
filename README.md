@@ -1,7 +1,7 @@
 # Art-of-Motion
 Art Of Motion
 
-[Live Preview]()
+[Live Preview](https://ranarabees.github.io/Art-of-Motion)
 
 # Images
 
